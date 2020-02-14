@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>Date My Mate</strong>, fostering genuine relationships through
-  comedy is why we exist."
+hero_text: <br><img src="/upload/logo-1.svg">fostering genuine relationships through
+  comedy is why we exist.
 title: Hero
 
 ---
