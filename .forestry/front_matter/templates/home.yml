@@ -15,12 +15,13 @@ fields:
       format: html
 - name: label_below_hero
   type: textarea
-  default: ''
+  default: Default line of text
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
   label: label below hero
+  description: Description goes here
 pages:
 - portfolio/index.md
