@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: <br><img src="/upload/logo-1.svg">
+hero_text: <br><strong><img src="/upload/logo-1.svg"></strong>
 title: Hero
 label_below_hero: Fostering genuine relationships through comedy is why we exist.
 
