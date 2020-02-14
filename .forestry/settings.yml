@@ -17,8 +17,8 @@ sections:
   templates:
   - works
 - type: directory
-  path: portfolio/journal
-  label: Journal
+  path: portfolio/about
+  label: About
   create: all
   match: "**/[!index]*"
   templates:
