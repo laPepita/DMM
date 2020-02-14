@@ -6,12 +6,6 @@
   "favicon": "/upload/favicon-32x32.png",
   "navigation": [
     {
-      "text": "About",
-      "link": "/about",
-      "position": "right",
-      "external": false
-    },
-    {
       "text": "Works",
       "link": "/",
       "position": "left",
@@ -30,8 +24,8 @@
       "external": true
     },
     {
-      "text": "Journal",
-      "link": "/journal/",
+      "text": "About",
+      "link": "/about/",
       "position": "right",
       "external": false
     }
