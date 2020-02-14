@@ -6,4 +6,8 @@ title: Hero
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
+
+Mailing list
+
+
 <WorksList />
